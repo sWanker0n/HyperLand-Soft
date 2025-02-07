@@ -1,0 +1,32 @@
+[
+  {
+     "inputs":[
+         {
+            "internalType":"address",
+            "name":"add",
+            "type":"address"
+         }
+      ],
+      "name":"isClaimed",
+      "outputs":[
+         {
+            "internalType":"bool",
+            "name":"_add",
+            "type":"bool"
+         }
+      ],
+      "stateMutability":"payable",
+      "type":"function"
+   },
+  {
+     "inputs":[
+
+      ],
+      "name":"claim",
+      "outputs":[
+
+      ],
+      "stateMutability":"payable",
+      "type":"function"
+   }
+]

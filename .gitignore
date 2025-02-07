@@ -1,2 +1,5 @@
-data/proxies
-data/wallets
+#data/proxies
+#data/wallets
+
+__pycache__
+.idea
