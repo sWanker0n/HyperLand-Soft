@@ -19,7 +19,7 @@ python main.py
 ### ⚙️ Start
 
 #
-1. First of all you need to take API key from 2captcha ONLY
+1. First of all you need to take API key from 2captcha ONLY and add it to config.py file
 2. You will need to put proxies (HTTP format) in proxies file, one proxy for one wallet (proxy format USER:PASS@HOST:PORT)
 3. You will need put you private keys in wallets file
 #
